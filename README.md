@@ -6,3 +6,7 @@ SLES 15.4 base docker image which includes:
 * python3
 * pip
 * conan 1.59.0
+* git
+* libuuid-devel
+* rpm-build
+* zip
